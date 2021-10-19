@@ -11,16 +11,19 @@ const initQuestions = [
         message: "What is the name of the team manager?",
         name: "managerName",
     },
+
     {
         type: "input",
         message: "What is the employee ID of the team manager?",
         name: "managerID",
     },
+
     {
         type: "input",
         message: "What is the email address of the team manager?",
         name: "managerEmail",
     },
+    
     {
         type: "input",
         message: "What is the office number of the team manager?",
